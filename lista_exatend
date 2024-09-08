@@ -1,0 +1,7 @@
+L = ["a"]
+L.append("b")
+print(L)
+L.append("c")
+print(L)
+L.append("d")
+print(L)
